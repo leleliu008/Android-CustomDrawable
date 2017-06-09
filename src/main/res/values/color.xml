@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_head">#00aff0</color>
+    <color name="background_body">#F2F2F2</color>
+    <color name="divider">#ebebeb</color>
+
+    <color name="dialog_title_text">#575757</color>
+    <color name="dialog_message_text">#797979</color>
+
+    <!-- im color add begin -->
+    <color name="transparent">#00000000</color>
+
+    <color name="green">#82cd72</color>
+    <color name="green_dark">#ff6d9b00</color>
+
+    <color name="yellow">#fdc51c</color>
+    <color name="orange">#FF8B02</color>
+
+    <color name="red">#FF0000</color>
+    <color name="red_dark">#ffcd3a3a</color>
+
+    <color name="blue">#ff0099cc</color>
+    <color name="blue_dark">#ff00719b</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="gray">#BEBEBE</color>
+    <color name="grey">#ffdedede</color>
+</resources>
