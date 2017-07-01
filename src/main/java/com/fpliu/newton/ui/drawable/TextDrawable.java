@@ -220,7 +220,7 @@ public class TextDrawable extends Drawable {
      * For RTL text, those alignments are reversed.
      *
      * @param align Text alignment value.  Should be set to one of:
-     *              <p/>
+     *              <br>
      *              {@link Layout.Alignment#ALIGN_NORMAL},
      *              {@link Layout.Alignment#ALIGN_NORMAL},
      *              {@link Layout.Alignment#ALIGN_OPPOSITE}.
@@ -306,7 +306,7 @@ public class TextDrawable extends Drawable {
      * TextDrawable cannot properly measure the bounds this drawable will need.
      * You must call {@link #setBounds(int, int, int, int) setBounds()} before
      * applying this TextDrawable to any View.
-     * <p/>
+     * <br>
      * Calling this method with <code>null</code> will remove any Path currently attached.
      */
     public void setTextPath(Path path) {

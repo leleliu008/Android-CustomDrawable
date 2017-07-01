@@ -11,8 +11,6 @@
                 <shape android:shape="rectangle">
                     <!-- 填充的颜色 -->
                     <solid android:color="#FFFFFF" />
-                    <!-- padding：Button里面的文字与Button边界的间隔 -->
-                    <padding android:bottom="10dp" android:left="20dp" android:right="20dp" android:top="10dp" />
                 </shape>
             </item>
         </layer-list>
@@ -29,8 +27,6 @@
                 <shape android:shape="rectangle">
                     <!-- 填充的颜色 -->
                     <solid android:color="#FFFFFF" />
-                    <!-- padding：Button里面的文字与Button边界的间隔 -->
-                    <padding android:bottom="10dp" android:left="20dp" android:right="20dp" android:top="10dp" />
                 </shape>
             </item>
         </layer-list>
@@ -47,8 +43,6 @@
                 <shape android:shape="rectangle">
                     <!-- 填充的颜色 -->
                     <solid android:color="#FFFFFF" />
-                    <!-- padding：Button里面的文字与Button边界的间隔 -->
-                    <padding android:bottom="10dp" android:left="20dp" android:right="20dp" android:top="10dp" />
                 </shape>
             </item>
         </layer-list>
@@ -65,8 +59,6 @@
                 <shape android:shape="rectangle">
                     <!-- 填充的颜色 -->
                     <solid android:color="#FFFFFF" />
-                    <!-- padding：Button里面的文字与Button边界的间隔 -->
-                    <padding android:bottom="10dp" android:left="20dp" android:right="20dp" android:top="10dp" />
                 </shape>
             </item>
         </layer-list>
